@@ -1,4 +1,4 @@
-# 👩‍💻👨‍💻 Pair Programming: Explorando el Mundo de Data Science con Python 🐍
+# 👩‍💻👩‍💻 Pair Programming: Explorando el Mundo de Data Science con Python 🐍
 
 ¡Bienvenidos a una emocionante sesión de Pair Programming! En este viaje, exploraremos juntos algunas de las herramientas más poderosas para la ciencia de datos en Python. Prepárate para sumergirte en:
 
